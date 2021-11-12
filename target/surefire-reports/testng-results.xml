@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-19T17:23:43 IST" name="Command line suite" finished-at="2021-09-19T17:23:43 IST" duration-ms="86">
+    <groups>
+    </groups>
+    <test started-at="2021-09-19T17:23:43 IST" name="Command line test" finished-at="2021-09-19T17:23:43 IST" duration-ms="86">
+      <class name="MyFirstMavenProject.IntroToMaven.AppiumTest">
+        <test-method signature="SetAppium()[pri:0, instance:MyFirstMavenProject.IntroToMaven.AppiumTest@619713e5]" started-at="2021-09-19T17:23:43 IST" name="SetAppium" finished-at="2021-09-19T17:23:43 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetAppium -->
+        <test-method signature="demoAppium()[pri:0, instance:MyFirstMavenProject.IntroToMaven.AppiumTest@619713e5]" started-at="2021-09-19T17:23:43 IST" name="demoAppium" finished-at="2021-09-19T17:23:43 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoAppium -->
+      </class> <!-- MyFirstMavenProject.IntroToMaven.AppiumTest -->
+      <class name="MyFirstMavenProject.IntroToMaven.SeleniumTest">
+        <test-method signature="SetSelenium()[pri:0, instance:MyFirstMavenProject.IntroToMaven.SeleniumTest@708f5957]" started-at="2021-09-19T17:23:43 IST" name="SetSelenium" finished-at="2021-09-19T17:23:43 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetSelenium -->
+        <test-method signature="demoSelenium()[pri:0, instance:MyFirstMavenProject.IntroToMaven.SeleniumTest@708f5957]" started-at="2021-09-19T17:23:43 IST" name="demoSelenium" finished-at="2021-09-19T17:23:43 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoSelenium -->
+      </class> <!-- MyFirstMavenProject.IntroToMaven.SeleniumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
